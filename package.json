@@ -1,0 +1,20 @@
+{
+  "name": "@qgisk/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier configuration",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qgisk/prettier-config.git"
+  },
+  "keywords": [
+    "Prettier",
+    "Config"
+  ],
+  "author": "Demian <QGIsK> (https://github.com/qgisk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qgisk/prettier-config/issues"
+  },
+  "homepage": "https://github.com/qgisk/prettier-config#readme"
+}
