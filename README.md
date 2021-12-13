@@ -12,7 +12,7 @@ In your package.json add
 
 ```json
 {
-  "prettier": "@company/prettier-config"
+  "prettier": "@qgisk/prettier-config"
 }
 ```
 
