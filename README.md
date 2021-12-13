@@ -35,4 +35,4 @@ module.exports = {
 
 ## License
 
-[MIT](https://github.com/QGIsK/prettier-config/blob/main/LICENSE) @QGIsK
+[MIT](https://github.com/QGIsK/prettier-config/blob/main/LICENSE) [@QGIsK](https://github.com/qgisk)
