@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "Prettier configuration",
   "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/qgisk/prettier-config.git"
