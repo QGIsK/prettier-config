@@ -25,12 +25,12 @@ Or if you prefer a .prettierrc
 From the prettier docs
 
 ```
-    Note: This method does not offer a way to extend the configuration to overwrite some properties from the shared configuration. If you need to do that, import the file in a .prettierrc.js file and export the modifications, e.g:
+Note: This method does not offer a way to extend the configuration to overwrite some properties from the shared configuration. If you need to do that, import the file in a .prettierrc.js file and export the modifications, e.g:
 
-    module.exports = {
-      ...require("@company/prettier-config"),
-      semi: false,
-    };
+module.exports = {
+    ...require("@company/prettier-config"),
+    semi: false,
+};
 ```
 
 ## License
