@@ -7,5 +7,6 @@
   "trailingComma": "all",
   "bracketSpacing": false,
   "arrowParens": "avoid",
-  "htmlWhitespaceSensitivity": "ignore"
+  "htmlWhitespaceSensitivity": "ignore",
+  "endOfLine":"auto"
 }
